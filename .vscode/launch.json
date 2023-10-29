@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PrimeiroExemploApplication<segundo-exemplo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.inatandev.primeiroexemplo.PrimeiroExemploApplication",
+            "projectName": "segundo-exemplo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
